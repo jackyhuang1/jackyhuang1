@@ -6,6 +6,8 @@
 
 :trophy: I am passionate about leveraging latest cloud and AI technologies to explore enabling and improving productivity of coders, working with customers to experiment and land best practices based business scenarios, thus achieving business value at scale with technology.
 
+A longer version of mistakes I have made since can be found here 👉 [LinkedIn](https://www.linkedin.com/in/jackyhuang-au/).
+
 **Best Regards,**
 
 **Jacky**
